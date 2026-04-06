@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Grammar Reviewer"
+  short_description: "Review Word docs with tracked grammar edits"
+  default_prompt: "Use $word-grammar-reviewer to review this Word document and return a tracked-changes .docx copy."
